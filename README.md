@@ -5,8 +5,8 @@
    - HTML
    - CSS
    - Bootstrap
-  - Git
-  - GitHub
+   - Git
+   - GitHub
 2. Pour l'épreuve E4
 3. Pour l'épreuve E5
 4. Pour mon identité numérique
