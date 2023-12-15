@@ -1,10 +1,10 @@
 # Portfolio
 ## Objectifs
 1. Mettre en oeuvre les technologies web pour héberger mon portfolio
-  - Netbeans
-  - HTML
-  - CSS
-  - Bootstrap
+   - Netbeans
+   - HTML
+   - CSS
+   - Bootstrap
   - Git
   - GitHub
 2. Pour l'épreuve E4
