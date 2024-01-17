@@ -1,4 +1,4 @@
-# Portfolio d'Amélia PILOU
+# Portfolio de Luis-Junior ARAUJO DA COSTA
 
 ### Objectifs : 
 ##### 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
